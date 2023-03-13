@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="AppName">AppName</string>
+    <string name="welcometag">Welcome Back !</string>
+    <string name="btnCustomer">Customer Login</string>
+    <string name="btnSeller">Seller Login</string>
+    <string name="textNavigateSignUp">New to?#</string>
+    <string name="NavigateSignUp">New to?#Sign Up</string>
+    <string name="WelcomeAppTag">Welcome to AppName !</string>
+    <string name="CusRegister">Customer Register</string>
+    <string name="SelRegister">Seller Register</string>
+    <string name="signIn">Sign In</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+</resources>
